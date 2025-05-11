@@ -10,7 +10,7 @@ def main():
         print("2 - dodaj nowego użytkownika")
         print("3 - usuń użytkownika")
         print("4 - edytuj użytkownika")
-        print("5 - Przygotuj mapę znajomych")
+
         print("==============MENU===================")
 
         choice = input("wybierz opcje menu")
